@@ -4,6 +4,7 @@ This project demonstrates a custom React custom hook `useFetch`
 used for fetching data from an API in a clean and reusable way.
 
 ## Netlify Link
+🔗 You can check the deployed project here:
 [Assignment-5](https://assignment-5-customhooks.netlify.app/)
 
 ## Tech Stack
